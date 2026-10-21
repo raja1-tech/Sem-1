@@ -5,14 +5,108 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
      <style>
-        card {
-            padding: 20px; background-color:darkblue
-        }
-        .card:hover { border: 1px solid #04AA6D}
+.btn-success {
+    background-color: green;
+    color: #ffffff;
+    border-color: #16a34a;
+}
+.btn-success:hover {
+    background-color: #158d;
+    border-color: #158d;
+    transform: translateY(--5px);
+    box-shadow:5px 4px 7px rgb;
+}
+.btn-danger {
+background-color: red;
+    color: #aquamarine;
+    border-color: #1da;
+}
+.btn-danger:hover {
+    background-color:#158d;
+    border-color:#158d;
+    transform: translateY(--5px);
+    box-shadow: red;
+}
+.btn-warning{
+    background-color: #d97706;
+    color:yellow;
+    border-color: palegoldenrod;
+}
+.btn-warning:hover {
+    color: #d97706;
+    background-color: white;
+    transform: translateY(-5px);
+    box-shadow: 100cap;
+}
+.btn-outline {
+    color: paleturquoise;
+    background-color: purple;
+    border-color: #16a34a;
+}
+.btn-outline:hover {
+            color: darkgray;
+            background-color: black;
+            transform: translateY(-5px);
+ }
+ .button-group {
+    background-color: deepskyblue;
+    font-family: verdana,geneva,tahoma, sans-serif;
+    box-sizig: cotent-box;
+    padding: 5%;
+    margin: 25%;
+ }
+ .card-sheet {
+    background-color: darkblue;
+    border-radius: 16px;
+    padding: 32px;
+    max-width: 650px;
+    width:100%;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+ }
+ h1{
+    font-family: 'Gill Sans', 'gill sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin:60px;
+    color: white;
+    margin-bottom: 15px;
+    font-weight: 2000;
+    white-space: nowrap;
+    font-size: 15px;
+ }
+ p{
+    color: #ffffff;
+    font-size: large;
+ }
+ body{
+    padding: 300px;
+    background-color: skyblue;
+ }
+ .card-sheet:hover{
+    padding:25px;
+    background-color: #0c1328;
+    transform: rotate(5deg);
+    border: 1px solid #04AA6D;
+ } 
+ .code-note{
+    color: white;
+ }
+        
     </style>
 
    </head>
 <body>
-    <h1 id="card">Hello Nivi</h1>
+    <main class="Card-Sheet">
+        <h1>Compne library:button variants </h1>
+        <p> Demonstrating reusable button classes built CSS Grouping Selectors, Pseudo-classes (<code>:hover</code>, <code>:active</code>) and the DRY Principle</p>
+        <div class="button-group">
+            <button type="button" class="btn-success">Save Changes</button>
+            <button type="button" class="btn-danger">Delete account</button>
+            <button type="button" class="btn-warning">Warning alert</button>
+            <button type="button" class="btn-outline">View details</button>
+        </div>
+        <div class="button-group">
+            <strong>DRY Architecture Note:</strong>
+        </div>
+    </main>
+    
 </body>
 </html>
