@@ -13,10 +13,7 @@ This project showcases my web development skills and coding projects.
 ## Technolgies used
 - HTML5
 - CSS3
-
-## Live Demo 
-Add your Live Website Link Here.
-
+ 
 ## How to Run
 1. Dowload or clone this repository.
 2. Open index.html in your browser.
@@ -26,3 +23,8 @@ Raja Roy
 
 Github:
 https://github.com/rajaroy28032007-glitch
+
+Live Demo:
+ https://github.com/rajaroy28032007-glitch/html-css-projects.git
+
+
