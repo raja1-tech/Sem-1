@@ -22,9 +22,9 @@ This project showcases my web development skills and coding projects.
 Raja Roy 
 
 Github:
-https://github.com/rajaroy28032007-glitch
+https://github.com/raja1-tech
 
 Live Demo:
- https://github.com/rajaroy28032007-glitch/html-css-projects.git
+ https://github.com/raja1-tech/bca-practical.git
 
 
