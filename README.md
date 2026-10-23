@@ -25,6 +25,6 @@ Github:
 https://github.com/raja1-tech
 
 Live Demo:
- https://github.com/raja1-tech/bca-practical.git
+ <a href="/home/raja/Documents/html-css-projects/index.html">
 
 
