@@ -25,6 +25,6 @@ Github:
 https://github.com/raja1-tech
 
 Live Demo:
- <a href="/home/raja/Documents/html-css-projects/index.html">
+/home/raja/Documents/html-css-projects/index.html
 
 
